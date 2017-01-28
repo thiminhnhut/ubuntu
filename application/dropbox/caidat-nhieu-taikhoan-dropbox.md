@@ -49,7 +49,7 @@ trên Dropbox ở **Bước 1**).
 
 	+ Ví dụ, gõ lệnh sau trong cửa số Terminal:
 
-			$ nano start-dropbox-thiminhnhut.sh
+			$ nano $HOME/start-dropbox-thiminhnhut.sh
 
 	Thay tên `thiminhnhut` thành tên bạn tạo ở **Bước 1**.
 
@@ -60,7 +60,7 @@ trên Dropbox ở **Bước 1**).
 			HOME=$HOME/.dropbox-thiminhnhut /usr/bin/dropbox start
 
 	Thay tên thư mục `.dropbox-thiminhnhut` thành tên bạn tạo ở **Bước 1**. 
-	Nhấn `Ctrl + X + Y` và `Enter` để lưu lại nội dung.
+	Nhấn `Ctrl + X + Y` và `Enter` để lưu lại nội dung và thoát.
 
 	+ Đặt quyền thực thi cho file `start-dropbox-thiminhnhut.sh`, gõ tiếp lệnh sau:
 
@@ -114,7 +114,9 @@ trên Dropbox ở **Bước 1**).
 
 			$ ln -s $HOME/.dropbox-thiminhnhut/Dropbox $HOME/Dropbox-thiminhnhut
 
-	+ Sau này bạn chép dữ liệu vào thư mục `Dropbox-thiminhnhut` để đồng bộ dữ liệu.
+	+ Sau này bạn chỉ cần thao tác trên thư mục `Dropbox-thiminhnhut`, dữ liệu tự động 
+	link đến thư mục `Dropbox` trong thư mục `.dropbox-thiminhnhut` để đồng bộ dữ liệu giữa 
+	máy tính và trên Dropbox.
 
 * **Bước 7:** Khởi động lại máy tính bạn sẽ thấy hai tài khoản Dropbox đã được cài đặt trên máy tính.
 
