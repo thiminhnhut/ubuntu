@@ -98,10 +98,11 @@ trên Dropbox ở **Bước 1**).
 
 	![](https://raw.githubusercontent.com/thiminhnhut/ubuntu/master/application/dropbox/images/startup-application-4.png)
 
-	+ Trở lại ứng dụng `Startup Applications`, được giao diện như hình dưới 
-	(đã thêm một ứng mới khi khởi động):
+	+ Chọn `Save`, được giao diện như hình dưới (đã thêm một ứng mới khi khởi động):
 
 	![](https://raw.githubusercontent.com/thiminhnhut/ubuntu/master/application/dropbox/images/startup-application-5.png)
+	
+	+ Chọn `Close` để đóng của sổ `Startup Applications Preferences`.
 
 * **Bước 6:** Tạo thư mục link đến thư mục `Dropbox` nằm trong thư mục `.dropbox-username`.
 
