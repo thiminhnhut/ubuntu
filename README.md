@@ -43,7 +43,13 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 4. [SageMath - Phần mềm lập trình tính toán](https://github.com/thiminhnhut/ubuntu/tree/master/application/sagemath)
 
 	* [Cài đặt SageMath](https://github.com/thiminhnhut/ubuntu/blob/master/application/sagemath/caidat-sagemath.md)
+	
+5. [Stardict - Từ điển tra cứu](https://github.com/thiminhnhut/ubuntu/tree/master/application/stardict)
+
+	* [Cài đặt và sử dụng từ điển Stardict](https://github.com/thiminhnhut/ubuntu/blob/master/application/stardict/caidat-stardict.md)
 
 ## Tips - Các thủ thuật
 	
 1. [Tự động mount phân vùng ổ đĩa cứng khi khởi động trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/ubuntu/blob/master/tips/auto-mount-harddrive-startup/auto-mount-harddrive-startup.md)
+
+2. [Thêm tùy chọn Open in Terminal khi click chuột phải trong thư mục làm việc trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/ubuntu/blob/master/tips/open-terminal-here/open-terminal-here.md)
