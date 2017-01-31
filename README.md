@@ -53,3 +53,5 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 1. [Tự động mount phân vùng ổ đĩa cứng khi khởi động trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/ubuntu/blob/master/tips/auto-mount-harddrive-startup/auto-mount-harddrive-startup.md)
 
 2. [Thêm tùy chọn Open in Terminal khi click chuột phải trong thư mục làm việc trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/ubuntu/blob/master/tips/open-terminal-here/open-terminal-here.md)
+
+3. [Xem thông tin của hệ thống bằng dòng lệnh với gói lệnh Neofetch](https://github.com/thiminhnhut/ubuntu/blob/master/tips/system-info-neofetch/system-info-neofetch.md)
