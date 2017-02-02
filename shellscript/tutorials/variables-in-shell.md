@@ -1,4 +1,4 @@
-# Biến trong Shell
+# Sử dụng biến trong Shell
 
 Thực hiện: Thi Minh Nhựt - Email: thiminhnhut@gmail.com
 
@@ -6,7 +6,11 @@ Thời gian: Ngày 02 tháng 02 năm 2017
 
 ## Nguồn tham khảo
 
-[Variables in Shell](http://www.freeos.com/guides/lsst/ch02sec02.html)
+1. [Variables in Shell](http://www.freeos.com/guides/lsst/ch02sec02.html)
+
+2. [Rules for Naming variable name (Both UDV and System Variable)](http://www.freeos.com/guides/lsst/ch02sec04.html)
+
+3. [How to print or access value of UDV (User defined variables)](http://www.freeos.com/guides/lsst/ch02sec05.html)
 
 ## Hai loại biến trong Shell
 
@@ -45,7 +49,7 @@ Thời gian: Ngày 02 tháng 02 năm 2017
 		
 		/bin/bash
 
-## Biến do người dùng định nghĩa
+## Phép gán và biến do người dùng định nghĩa
 
 * Cách khai báo biến do người dùng định nghĩa:
 
@@ -58,3 +62,32 @@ Thời gian: Ngày 02 tháng 02 năm 2017
 		$ a=2
 		
 		$ b="Hello"
+
+## Truy cập vào biến
+
+* Muốn sử dụng các biến (biến hệ thống hoặc biến do người dùng định nghĩa), 
+chúng ta sử dụng cú pháp: `$tên_biến` để truy cập vào biến.
+
+* Ví dụ: Cách khai báo và sử dụng biến trong Shell.
+
+		#!/bin/bash
+		
+		# Script: variables.sh
+		
+		# Set execute permission: chmod +x variables.sh
+		
+		# Run script: ./variables.sh
+		
+
+		username=$USER
+		
+		path=$PWD
+		
+		echo "Xin chao $username, ban dang o thu muc $path"
+
+		
+		a=2
+		
+		echo "Gia tri cua a la: $a"
+		
+	Nội dung của script `variables.sh`: [Download](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/script/variables.sh)
