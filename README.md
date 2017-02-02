@@ -26,6 +26,8 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 
 * Các thủ thuật: [tips](https://github.com/thiminhnhut/ubuntu/tree/master/tips)
 
+* Lập trình Shell Script: [shellscript](https://github.com/thiminhnhut/ubuntu/tree/master/shellscript)
+
 ## Applications - Các ứng dụng
 
 1. [Dropbox - Dịch vụ lưu trữ dữ liệu](https://github.com/thiminhnhut/ubuntu/tree/master/application/dropbox)
@@ -55,3 +57,9 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 2. [Thêm tùy chọn Open in Terminal khi click chuột phải trong thư mục làm việc trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/ubuntu/blob/master/tips/open-terminal-here/open-terminal-here.md)
 
 3. [Xem thông tin của hệ thống bằng dòng lệnh với gói lệnh Neofetch](https://github.com/thiminhnhut/ubuntu/blob/master/tips/system-info-neofetch/system-info-neofetch.md)
+
+## Shell Script - Lập trình Shell Bash
+
+1. [Cách để viết một Shell Script](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/write-shellscript.md)
+
+2. [Biến trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/variables-in-shell.md)
