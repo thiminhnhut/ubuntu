@@ -62,4 +62,6 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 
 1. [Cách để viết một Shell Script](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/write-shellscript.md)
 
-2. [Biến trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/variables-in-shell.md)
+2. [Sử dụng biến trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/variables-in-shell.md)
+
+3. [Phép tính toán học trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/arithmetic-in-shell.md)
