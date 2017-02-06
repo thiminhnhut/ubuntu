@@ -1,7 +1,7 @@
 #!/bin/bash
-# Script: pheptoan.sh
-# Set execute permission: chmod +x pheptoan.sh
-# Run script: ./pheptoan.sh
+# Script: pheptinh.sh
+# Set execute permission: chmod +x pheptinh.sh
+# Run script: ./pheptinh.sh
 
 echo -n "Nhap vao hai so a, b: "
 read a b
