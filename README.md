@@ -67,3 +67,5 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 3. [Phép tính toán học trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/arithmetic-in-shell.md)
 
 4. [Kiểm tra trạng thái thoát của câu lệnh hoặc script trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/exit-status-in-shell.md)
+
+5. [Đọc dữ liệu nhập vào từ bàn phím với lệnh read trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/read-in-shell.md)
