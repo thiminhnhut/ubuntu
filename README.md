@@ -62,10 +62,12 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 
 1. [Cách để viết một Shell Script](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/write-shellscript.md)
 
-2. [Sử dụng biến trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/variables-in-shell.md)
+2. [Hiển thị dữ liệu lên màn hình với lệnh echo trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/echo-in-shell.md)
 
-3. [Phép tính toán học trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/arithmetic-in-shell.md)
+3. [Sử dụng biến trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/variables-in-shell.md)
 
-4. [Kiểm tra trạng thái thoát của câu lệnh hoặc script trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/exit-status-in-shell.md)
+4. [Phép tính toán học trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/arithmetic-in-shell.md)
 
-5. [Đọc dữ liệu nhập vào từ bàn phím với lệnh read trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/read-in-shell.md)
+5. [Kiểm tra trạng thái thoát của câu lệnh hoặc script trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/exit-status-in-shell.md)
+
+6. [Đọc dữ liệu nhập vào từ bàn phím với lệnh read trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/read-in-shell.md)
