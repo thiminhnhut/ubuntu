@@ -1,4 +1,4 @@
-# Sử dụng tiện ích sensors-unity để xem nhiệt độ CPU trên máy tính
+# Sử dụng tiện ích sensors-unity để xem nhiệt độ CPU trên hệ điều hành Ubuntu
 
 Tìm hiểu: Thi Minh Nhựt - Email: thiminhnhut@gmail.com
 
