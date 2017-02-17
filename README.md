@@ -62,6 +62,8 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 
 5. [Ứng dụng tách, gộp, cắt, xoay và sắp xếp lại các trang trong file PDF trên hệ điều hành Ubuntu](https://github.com/thiminhnhut/ubuntu/blob/master/tips/pdf-shuffler/pdf-shuffler.md)
 
+6. [Nén và giải nén file hoặc thư mục trên hệ điều hành Ubuntu](https://github.com/thiminhnhut/ubuntu/blob/master/tips/archives/archives.md)
+
 ## Shell Script - Lập trình Shell Bash
 
 1. [Cách để viết một Shell Script](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/write-shellscript.md)
