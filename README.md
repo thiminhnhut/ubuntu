@@ -64,6 +64,8 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 
 6. [Nén và giải nén file hoặc thư mục trên hệ điều hành Ubuntu](https://github.com/thiminhnhut/ubuntu/blob/master/tips/archives/archives.md)
 
+7. [Biến GEdit thành IDE trên hệ điều hành Ubuntu](https://github.com/thiminhnhut/ubuntu/blob/master/tips/plugins-gedit/plugins-gedit-on-ubuntu.md)
+
 ## Shell Script - Lập trình Shell Bash
 
 1. [Cách để viết một Shell Script](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/write-shellscript.md)
