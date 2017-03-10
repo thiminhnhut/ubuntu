@@ -49,6 +49,8 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 5. [Stardict - Từ điển tra cứu](https://github.com/thiminhnhut/ubuntu/tree/master/application/stardict)
 
 	* [Cài đặt và sử dụng từ điển Stardict](https://github.com/thiminhnhut/ubuntu/blob/master/application/stardict/caidat-stardict.md)
+	
+6. [Dia - Phần mềm vẽ sơ đồ khối và lưu đồ giải thuật](https://github.com/thiminhnhut/ubuntu/blob/b14c956753351d4262380309f8c33c63c69305ed/application/dia/dia.md)
 
 ## Tips - Các thủ thuật
 	
