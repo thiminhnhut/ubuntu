@@ -72,6 +72,8 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 
 9. [Khắc phục lỗi không mở được Geany trên hệ điều hành Ubuntu](https://github.com/thiminhnhut/ubuntu/blob/master/tips/geany/geany-error.md)
 
+10. [Khắc phục lỗi không Compilation được C với Geany khi sử dụng thư viện math](https://github.com/thiminhnhut/ubuntu/blob/master/tips/geany/compilation-c.md)
+
 ## Shell Script - Lập trình Shell Bash
 
 1. [Cách để viết một Shell Script](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/write-shellscript.md)
