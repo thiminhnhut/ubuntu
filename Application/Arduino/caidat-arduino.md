@@ -36,6 +36,6 @@ Thời gian: Ngày 23 tháng 08 năm 2017
     + Cho phép upload chương trình mà không sử dụng quyền `root` (ví dụ `ttyACM0` là tên port của kết nối giữa Arduino Uno với máy tính, trong trường hợp tên khác thì thay đổi thành tên port cho phù hợp (vào `Tools/Port` để xem)):
     
     ```bash
-    $ sudo chmod 666 ttyACM0
+    $ sudo chmod 666 /dev/ttyACM0
     ```
 * Kết luận: bạn có thể sử dụng Arduino IDE với quyền `username` hiện tại mà không cần sử dụng quyền `root`.
