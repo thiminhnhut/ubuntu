@@ -52,6 +52,10 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 	
 6. [Dia - Phần mềm vẽ sơ đồ khối và lưu đồ giải thuật](https://github.com/thiminhnhut/ubuntu/blob/b14c956753351d4262380309f8c33c63c69305ed/application/dia/dia.md)
 
+7. [Arduino IDE - Công cụ lập trình cho Arduino](https://github.com/thiminhnhut/ubuntu/tree/master/Application/Arduino1)
+
+    * [Cài đặt Arduino IDE trên hệ điều hành Ubuntu và truy cặp vào cổng COM mà không sử dụng quyền root](https://github.com/thiminhnhut/ubuntu/blob/master/Application/Arduino/caidat-arduino.md)
+
 ## Tips - Các thủ thuật
 	
 1. [Tự động mount phân vùng ổ đĩa cứng khi khởi động trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/ubuntu/blob/master/tips/auto-mount-harddrive-startup/auto-mount-harddrive-startup.md)
