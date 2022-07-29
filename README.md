@@ -56,6 +56,12 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 
     * [Cài đặt Arduino IDE trên hệ điều hành Ubuntu và truy cặp vào cổng COM mà không sử dụng quyền root](https://github.com/thiminhnhut/ubuntu/blob/master/Application/Arduino/caidat-arduino.md)
 
+## Các extension hữu ích
+
+1. [mcfly](https://github.com/cantino/mcfly.git)
+
+1. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)
+
 ## Tips - Các thủ thuật
 
 1. [Tự động mount phân vùng ổ đĩa cứng khi khởi động trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/ubuntu/blob/master/tips/auto-mount-harddrive-startup/auto-mount-harddrive-startup.md)
