@@ -99,3 +99,5 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 5. [Kiểm tra trạng thái thoát của câu lệnh hoặc script trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/exit-status-in-shell.md)
 
 6. [Đọc dữ liệu nhập vào từ bàn phím với lệnh read trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/read-in-shell.md)
+
+7. [How to fix external hard disk READ ONLY?](https://askubuntu.com/questions/333287/how-to-fix-external-hard-disk-read-only)
