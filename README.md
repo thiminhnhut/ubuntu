@@ -32,23 +32,23 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 
 1. [Dropbox - Dịch vụ lưu trữ dữ liệu](https://github.com/thiminhnhut/ubuntu/tree/master/application/dropbox)
 
-	* [Cài đặt nhiều tài khoản Dropbox trên cùng một máy tính](https://github.com/thiminhnhut/ubuntu/blob/master/application/dropbox/caidat-nhieu-taikhoan-dropbox.md)
+* [Cài đặt nhiều tài khoản Dropbox trên cùng một máy tính](https://github.com/thiminhnhut/ubuntu/blob/master/application/dropbox/caidat-nhieu-taikhoan-dropbox.md)
 
 2. [LaTeX - Chương trình soạn thảo tài liệu khoa học](https://github.com/thiminhnhut/ubuntu/tree/master/application/latex)
 
-	* [Cài đặt TeXLive và TeXMaker](https://github.com/thiminhnhut/ubuntu/blob/master/application/latex/caidat-texlive-texmaker.md)
+* [Cài đặt TeXLive và TeXMaker](https://github.com/thiminhnhut/ubuntu/blob/master/application/latex/caidat-texlive-texmaker.md)
 
 3. [Octave - Phần mềm lập trình tính toán](https://github.com/thiminhnhut/ubuntu/tree/master/application/octave)
 
-	* [Cài đặt Octave](https://github.com/thiminhnhut/ubuntu/blob/master/application/octave/caidat-octave.md)
+* [Cài đặt Octave](https://github.com/thiminhnhut/ubuntu/blob/master/application/octave/caidat-octave.md)
 
 4. [SageMath - Phần mềm lập trình tính toán](https://github.com/thiminhnhut/ubuntu/tree/master/application/sagemath)
 
-	* [Cài đặt SageMath](https://github.com/thiminhnhut/ubuntu/blob/master/application/sagemath/caidat-sagemath.md)
+* [Cài đặt SageMath](https://github.com/thiminhnhut/ubuntu/blob/master/application/sagemath/caidat-sagemath.md)
 
 5. [Stardict - Từ điển tra cứu](https://github.com/thiminhnhut/ubuntu/tree/master/application/stardict)
 
-	* [Cài đặt và sử dụng từ điển Stardict](https://github.com/thiminhnhut/ubuntu/blob/master/application/stardict/caidat-stardict.md)
+* [Cài đặt và sử dụng từ điển Stardict](https://github.com/thiminhnhut/ubuntu/blob/master/application/stardict/caidat-stardict.md)
 
 6. [Dia - Phần mềm vẽ sơ đồ khối và lưu đồ giải thuật](https://github.com/thiminhnhut/ubuntu/blob/b14c956753351d4262380309f8c33c63c69305ed/application/dia/dia.md)
 
@@ -86,6 +86,8 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 
 11. [Đọc file chm trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/ubuntu/blob/master/tips/read-chm-file/read-chm-file.md)
 
+12. [How to fix external hard disk READ ONLY?](https://askubuntu.com/questions/333287/how-to-fix-external-hard-disk-read-only)
+
 ## Shell Script - Lập trình Shell Bash
 
 1. [Cách để viết một Shell Script](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/write-shellscript.md)
@@ -99,5 +101,3 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 5. [Kiểm tra trạng thái thoát của câu lệnh hoặc script trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/exit-status-in-shell.md)
 
 6. [Đọc dữ liệu nhập vào từ bàn phím với lệnh read trong Shell](https://github.com/thiminhnhut/ubuntu/blob/master/shellscript/tutorials/read-in-shell.md)
-
-7. [How to fix external hard disk READ ONLY?](https://askubuntu.com/questions/333287/how-to-fix-external-hard-disk-read-only)
