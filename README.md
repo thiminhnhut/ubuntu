@@ -86,7 +86,7 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 
 11. [Đọc file chm trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/ubuntu/blob/master/tips/read-chm-file/read-chm-file.md)
 
-12. [How to fix external hard disk READ ONLY?](https://askubuntu.com/questions/333287/how-to-fix-external-hard-disk-read-only)
+12. [Unable to mount Windows (NTFS) filesystem due to hibernation](https://askubuntu.com/questions/145902/unable-to-mount-windows-ntfs-filesystem-due-to-hibernation)
 
 ## Shell Script - Lập trình Shell Bash
 
