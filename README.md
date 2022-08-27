@@ -62,6 +62,8 @@ ghi rõ nguồn trích dẫn, đưa link về bài viết gốc.*
 
 1. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)
 
+1. [rclone](https://github.com/rclone/rclone.git)
+
 ## Tips - Các thủ thuật
 
 1. [Tự động mount phân vùng ổ đĩa cứng khi khởi động trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/ubuntu/blob/master/tips/auto-mount-harddrive-startup/auto-mount-harddrive-startup.md)
